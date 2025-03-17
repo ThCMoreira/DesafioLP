@@ -152,4 +152,8 @@ ul {
     background-color: var(--color-button-hover);
 }
 
-@media (max-width = 1200px)
+@media (max-width = 1200px) {
+    .media-image {
+        width: auto;
+    }
+}    
